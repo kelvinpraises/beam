@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905870069702",
+    "project_id": "beam-eco",
+    "storage_bucket": "beam-eco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905870069702:android:276d88075e371f148decc7",
+        "android_client_info": {
+          "package_name": "com.example.beam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBxvGV7XfyL3GUfWyM_lELNtLRXNutPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
